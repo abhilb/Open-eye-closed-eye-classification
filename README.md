@@ -1,4 +1,4 @@
-# Open-eye-closed-eye-classification
+# Task
 Classify image of eye as closed or open. (MRL Dataset)
 
 # Dataset 
@@ -13,3 +13,13 @@ MRL Eye Dataset is a large-scale dataset of human eye images. The images are ann
 * Random forest model
 * Neural network with fully connected layers
 * Neural network with convolutional layers.
+* Auto encoder
+
+**Part 3** - Explainable AI
+[] GradCam
+[] GradCam++
+[] ScoreCam
+
+# Results
+
+![screenshot](open_eye_closed_eye_screenshot.png)
