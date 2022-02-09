@@ -16,9 +16,9 @@ MRL Eye Dataset is a large-scale dataset of human eye images. The images are ann
 * Auto encoder
 
 **Part 3** - Explainable AI
-[] GradCam
-[] GradCam++
-[] ScoreCam
+- [ ] GradCam
+- [ ] GradCam++
+- [ ] ScoreCam
 
 # Results
 
